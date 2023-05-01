@@ -4,7 +4,6 @@
 [![Blog](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=%2B553491614321&text&type=phone_number&app_absent=0)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-silva-carvalho-81a077240/)
 
-
 ![Pedro GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrown1&show_icons=true&theme=dracula)
 
 ## Tecnologias que utilizo no meu dia a dia!

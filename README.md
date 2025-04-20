@@ -17,6 +17,6 @@
     <img align="center" alt="REST API" src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar vida das pessoas através da programação.
+Apaixonado por tecnologia!!
 
 
